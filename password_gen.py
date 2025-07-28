@@ -1,4 +1,3 @@
-#we need to generate a password randomly in shuffle
 import string
 import random as r
 letters = string.ascii_uppercase + string.ascii_lowercase +string.digits + string.punctuation
